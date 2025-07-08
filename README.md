@@ -15,4 +15,4 @@
 
 
 <p align=center>
- <img width="1000" height="100" src="https://adriansblinkiecollection.neocities.org/dividers/bubbles.gif">
+ <img width="1000" height="50" src="https://adriansblinkiecollection.neocities.org/dividers/sparkles6.gif">
