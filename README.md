@@ -1,6 +1,6 @@
 
 <p align=right> 
-  <img width="100" height="150" src="tumblr_c3b0ae4860f6b943acb75d6122a48043_45278ef5_1280.png">
+  <img width="100" height="150" src="file:///home/chronos/u-66f12ef547a9535edbbd5bc309afe9cc841a47e8/MyFiles/Downloads/e72.gif">
 
 
 <p align=center>
