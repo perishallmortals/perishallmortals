@@ -1,5 +1,5 @@
 <p align=center>
-[blue](https://perishallmortals.com/ghpvc/?username=perishallmortals&abbreviated=true)
+(https://perishallmortals.com/ghpvc/?username=perishallmortals&abbreviated=true)
 </p>
  
 <p align=center> 
