@@ -21,4 +21,4 @@ $\color{rgba(113, 222, 235)}{\textsf{ .⑅ i am jinx ⑅. }}$<br/>
 
 
 <p align=center>
- <img width="1000" height="50" src="https://adriansblinkiecollection.neocities.org/dividers/sparkles6.gif">
+ <img width="1000" height="50" src="https://adriansblinkiecollection.neocities.org/dividers/ocean.gif">
