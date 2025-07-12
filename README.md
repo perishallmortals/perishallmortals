@@ -14,7 +14,7 @@
 
 
 <p align=center>
-$\color{rgba(16, 68, 181)}{\textsf{ .⑅ kris get the banana ⑅. }}$<br/>
+$\color{rgba(16, 68, 181)}{\textsf{ .⑅ Fahaha ⑅. }}$<br/>
 
 
 
