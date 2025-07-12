@@ -14,7 +14,7 @@
 
 
 <p align=center>
-$\color{rgba(113, 222, 235)}{\textsf{ .⑅ i am jinx ⑅. }}$<br/>
+$\color{rgba(39, 192, 227)}{\textsf{ .⑅ kris get the banana ⑅. }}$<br/>
 
 
 
