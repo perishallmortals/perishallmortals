@@ -21,4 +21,4 @@ $\color{rgba(16, 68, 181)}{\textsf{ .⑅ Fahaha ⑅. }}$<br/>
 
 
 <p align=center>
- <img width="1000" height="50" src="https://64.media.tumblr.com/03104c761a18f6643a3172d93cc91e9b/2bd480caae74b1ef-58/s2048x3072/8f8f2fee81c52bc298abe2bd16695f81935accef.pnj">
+ <img width="1000" height="50" src="https://64.media.tumblr.com/66dd6f3caa250026e33df189279a76ff/cacf284d80ee881a-d4/s500x750/a4653b3390abdeda5452e828a5d998bc34d6eded.pnj">
