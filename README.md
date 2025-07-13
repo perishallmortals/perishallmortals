@@ -14,7 +14,7 @@
 
 
 <p align=center>
-$\color{rgba(147, 231, 245)}{\textsf{ .⑅ Fahaha ⑅. }}$<br/>
+$\color{rgba(147, 231, 245)}{\textsf{ .⑅ yes i am in the car playing pt ⑅. }}$<br/>
 
 
 
