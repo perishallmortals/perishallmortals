@@ -21,4 +21,4 @@ $\color{rgba(16, 68, 181)}{\textsf{ .⑅ Fahaha ⑅. }}$<br/>
 
 
 <p align=center>
- <img width="1000" height="50" src="https://adriansblinkiecollection.neocities.org/dividers/ocean.gif">
+ <img width="1000" height="50" src="https://64.media.tumblr.com/4bdb89da3f6422d2250fc150fe9d0ba5/a63a4edc45cdbc15-35/s640x960/f6476fc542234f520243bd39111a61f4572f8cba.gifv">
