@@ -14,7 +14,7 @@
 
 
 <p align=center>
-$\color{rgba(16, 68, 181)}{\textsf{ .⑅ Fahaha ⑅. }}$<br/>
+$\color{rgba(82, 214, 235)}{\textsf{ .⑅ Fahaha ⑅. }}$<br/>
 
 
 
