@@ -17,8 +17,9 @@
 $\color{rgba(147, 231, 245)}{\textsf{ .⑅ crown giver + ata signer ⑅. }}$<br/>
 
 
-
-
+<p aign=center>
+  <img width="500" height="100" src="https://i.redd.it/baqlafb9sr8f1.gif">
+  </p>
 
 <p align=center>
  <img width="1000" height="50" src="https://64.media.tumblr.com/287c71bfbab869e762daa8c8f96bfa99/2bd480caae74b1ef-36/s2048x3072/422e0f4c2cc47174e2a34f7b48d570cbe1618bd1.pnj">
