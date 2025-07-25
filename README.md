@@ -20,4 +20,4 @@ $\color{rgba(147, 231, 245)}{\textsf{ .⑅ my wifi is really awful ⑅. }}$<br/>
 
 
 <p align=center>
- <img width="1000" height="50" src="https://64.media.tumblr.com/287c71bfbab869e762daa8c8f96bfa99/2bd480caae74b1ef-36/s2048x3072/422e0f4c2cc47174e2a34f7b48d570cbe1618bd1.pnj">
+ <img width="1000" height="50" src="https://64.media.tumblr.com/358a3d821fc6e9b9b03ae800ec02fe03/7e680e2fd6ef831a-25/s500x750/700f22c26d1cabce96f8ce1124a3c8d3a4579161.pnj">
