@@ -16,7 +16,7 @@
 <p align=center>
 $\color{rgba(147, 231, 245)}{\textsf{ .⑅ my wifi is really awful ⑅. }}$<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=12192b&interchange=true&bar_color=66b8cc)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <p align=center>
