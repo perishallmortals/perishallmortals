@@ -18,6 +18,7 @@ $\color{rgba(147, 231, 245)}{\textsf{ .⑅ crown giver + ata signer ⑅. }}$<br/
   
 <p align=center>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=12192b&interchange=true&bar_color=66b8cc)](https://github.com/kittinan/spotify-github-profile)
+</p>
 
 <p align=center>
  <img width="1000" height="50" src="https://64.media.tumblr.com/287c71bfbab869e762daa8c8f96bfa99/2bd480caae74b1ef-36/s2048x3072/422e0f4c2cc47174e2a34f7b48d570cbe1618bd1.pnj">
