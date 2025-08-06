@@ -14,7 +14,7 @@
 
 
 <p align=center>
-$\color{rgba(120, 169, 8)}{\textsf{ .⑅ how i feel listening to the same songs everyday ⑅. }}$<br/>
+$\color{rgba(120, 169, 8)}{\textsf{ .⑅ happy bady to my wifey ⑅. }}$<br/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=0d2202&interchange=false&bar_color=84bc0b)](https://github.com/kittinan/spotify-github-profile)
 
