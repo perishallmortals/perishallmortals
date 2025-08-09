@@ -9,7 +9,7 @@
 
  
 <p align=center>
-  <img width="1000" height="500" src="https://64.media.tumblr.com/1a9c7104a8089b2721d819b48ea34c53/71f856d6e3fdb8f9-5f/s640x960/ba09f6d36d79a4b6376366cdcb64a947caeaf14b.gif">
+  <img width="1000" height="500" src="file:///home/chronos/u-66f12ef547a9535edbbd5bc309afe9cc841a47e8/MyFiles/Downloads/_%20(78).gif">
 </p>
 
 
