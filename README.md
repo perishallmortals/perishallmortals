@@ -9,7 +9,7 @@
 
  
 <p align=center>
-  <img width="1000" height="500" src="file:///home/chronos/u-66f12ef547a9535edbbd5bc309afe9cc841a47e8/MyFiles/Downloads/_%20(78).gif">
+  <img width="1000" height="500" src="https://i.pinimg.com/originals/7a/91/2e/7a912e240fd0297b1d69e483f822834c.gif">
 </p>
 
 
