@@ -20,4 +20,4 @@ $\color{rgba(235, 9, 28)}{\textsf{ .⑅ going to and or at the beach ⑅. }}$<br
 
 
 <p align=center>
- <img width="1000" height="50" src="https://64.media.tumblr.com/358a3d821fc6e9b9b03ae800ec02fe03/7e680e2fd6ef831a-25/s500x750/700f22c26d1cabce96f8ce1124a3c8d3a4579161.pnj">
+ <img width="1000" height="50" src="https://64.media.tumblr.com/53d8bc69a67f220bb12a288b935512c3/4160be3cc2b84620-30/s540x810/3ca5c01238dd79bba3b3c5487fde0da6f20ba7a2.gifv">
