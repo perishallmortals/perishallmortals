@@ -16,7 +16,7 @@
 <p align=center>
 $\color{rgba(235, 9, 28)}{\textsf{ .⑅ going to and or at the beach ⑅. }}$<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=1d032b&interchange=false&bar_color=1944f0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=260303&interchange=false&bar_color=1981f0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <p align=center>
