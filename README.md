@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=Profile%20views&color=71d42a&style=plastic" alt="perishallmortals" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=Profile%20views&color=0d61fc&style=plastic" alt="perishallmortals" /> </p>
 </p>
 
 <p align=center> 
@@ -14,7 +14,7 @@
 
 
 <p align=center>
-$\color{rgba(120, 169, 8)}{\textsf{ .⑅ going to and or at the beach ⑅. }}$<br/>
+$\color{rgba(235, 9, 28)}{\textsf{ .⑅ going to and or at the beach ⑅. }}$<br/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=0d2202&interchange=false&bar_color=84bc0b)](https://github.com/kittinan/spotify-github-profile)
 
