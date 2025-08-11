@@ -16,7 +16,7 @@
 <p align=center>
 $\color{rgba(34, 121, 242)}{\textsf{ .⑅ labubu matcha ⑅. }}$<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=051238&interchange=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=050f2e&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <p align=center>
