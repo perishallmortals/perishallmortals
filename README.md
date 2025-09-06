@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=Profile%20views&color=0d61fc&style=plastic" alt="perishallmortals" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=Profile%20views&color=c6d68b&style=plastic" alt="perishallmortals" /> </p>
 </p>
 
 <p align=center> 
@@ -14,7 +14,7 @@
 
 
 <p align=center>
-$\color{rgba(34, 121, 242)}{\textsf{ .⑅ i hate timebomb so much ⑅. }}$<br/>
+$\color{rgba(207, 186, 112)}{\textsf{ .⑅ i hate timebomb so much ⑅. }}$<br/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=050f2e&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
