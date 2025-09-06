@@ -20,4 +20,4 @@ $\color{rgba(207, 186, 112)}{\textsf{ .⑅ i hate timebomb so much ⑅. }}$<br/>
 
 
 <p align=center>
- <img width="1000" height="50" src="https://64.media.tumblr.com/53d8bc69a67f220bb12a288b935512c3/4160be3cc2b84620-30/s540x810/3ca5c01238dd79bba3b3c5487fde0da6f20ba7a2.gifv">
+ <img width="1000" height="50" src="https://64.media.tumblr.com/43cdcc2f50a8992397c3d90514c49680/185e017d4818800f-7e/s2048x3072/ff1504258bfe0d518b01126b3cc448f5ddd230d5.gifv">
