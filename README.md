@@ -16,7 +16,11 @@
 <p align=center>
 $\color{rgba(179, 100, 122)}{\textsf{ .⑅ i looove my wife so much ⑅. }}$<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=2e2e19&interchange=false&bar_color=e8c9d1)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=76475a&interchange=false&profanity=false&bar_color=e6b7be&bar_color_cover=false">
+  </a>
+</p>
 
 
 <p align=center>
