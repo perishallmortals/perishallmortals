@@ -9,7 +9,7 @@
 
  
 <p align=center>
-  <img width="1000" height="400" src="https://i.pinimg.com/1200x/ca/d1/35/cad1356ffb6226c440c010c74bbac45b.jpg">
+  <img width="1000" height="500" src="https://i.pinimg.com/1200x/ca/d1/35/cad1356ffb6226c440c010c74bbac45b.jpg">
 </p>
 
 
