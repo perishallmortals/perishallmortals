@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=eda1b6&style=plastic" alt="perishallmortals" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=542926&style=plastic" alt="perishallmortals" /> </p>
 </p>
 
 <p align=center> 
@@ -18,7 +18,7 @@ $\color{rgba(179, 100, 122)}{\textsf{ .⑅ i looove my wife so much ⑅. }}$<br/
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=76475a&interchange=false&profanity=false&bar_color=e6b7be&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=default&show_offline=true&background_color=294035&interchange=false&profanity=false&bar_color=e6b7be&bar_color_cover=false">
   </a>
 </p>
 
