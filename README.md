@@ -14,7 +14,7 @@
 
 
 <p align=center>
-$\color{rgba(179, 100, 122)}{\textsf{ .⑅ i looove my wife so much ⑅. }}$<br/>
+$\color{rgba(51, 42, 64)}{\textsf{ .⑅ i looove my wife so much ⑅. }}$<br/>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
