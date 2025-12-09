@@ -24,4 +24,4 @@ $\color{rgba(179, 100, 122)}{\textsf{ .⑅ i looove my wife so much ⑅. }}$<br/
 
 
 <p align=center>
- <img width="1000" height="50" src="https://64.media.tumblr.com/0acf20b553fb0ee25d060a69d5975365/dc6f0badd4745795-87/s640x960/a38f6c154feb7f66c62b7b77cdf936dc63324913.webp">
+ <img width="1000" height="50" src="https://64.media.tumblr.com/d2f8fa28634c0ba2eee249a01a3f5fd4/9182bf022cb7c9fb-4f/s1280x1920/81cfc31b1ab3cc585b4f69fa50450b86480987f7.pnj">
