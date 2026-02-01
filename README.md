@@ -18,10 +18,8 @@
 <p align=left>
   <img width="1000" height="300" src="https://media.discordapp.net/attachments/1012555622446792745/1467635783530844170/2026_02_01_0rr_Kleki.png?ex=698119d6&is=697fc856&hm=f9e56cfd50059aa30e818bd10a68b199564293c03f67b87d27c332907a657d1c&=&format=webp&quality=lossless&width=720&height=58">
   </p>
-<p align=left> 
-<img src=(https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01&count=5)
-</p>
 
+![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Perishall)](https://www.last.fm/user/Perishall&loved=true)
 
    <p align=center>
   <img width="1000" height="300" src="https://64.media.tumblr.com/ae8084a7b38f287f4587b146708a306d/1c25dc6532f966e9-88/s500x750/29093279426c062af74c5d01fb91bea84a142d2b.pnj"> 
