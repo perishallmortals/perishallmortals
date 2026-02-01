@@ -18,7 +18,7 @@
 <p align=left>
   <img width="1000" height="300" src="https://media.discordapp.net/attachments/1012555622446792745/1467635783530844170/2026_02_01_0rr_Kleki.png?ex=698119d6&is=697fc856&hm=f9e56cfd50059aa30e818bd10a68b199564293c03f67b87d27c332907a657d1c&=&format=webp&quality=lossless&width=720&height=58">
   </p>
-<p align=left> 
+<p align=left 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01&count=1)
 </p>
 
