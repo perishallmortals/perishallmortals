@@ -6,7 +6,9 @@
   <img src="https://64.media.tumblr.com/bb61513e1cf401731e81318d2e89cbc1/fe5d9a95865028a4-bb/s500x750/300050e53b582eef5c2c53575dc798ae79955546.pnj" width="200" /> 
 </p>
 
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=jinxers%20&color=fc9803&style=plastic" alt="perishallmortals">
+</p>
 
 
 
