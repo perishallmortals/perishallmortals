@@ -2,7 +2,11 @@
   <img width="700" height="200" src="https://i.pinimg.com/1200x/00/b7/4b/00b74b048697889996ce2b180efef696.jpg"> 
   
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=jinxers%20&color=fc9803&style=plastic" alt="perishallmortals">
+  <p align=center> 
+  <img width="700" height="200" src="https://64.media.tumblr.com/46bce5f0e20aa7cc517f7c39d5290b55/2672d0d5d966b810-52/s500x750/532940274446d5461509546923c3dfa6e62d97c6.gifv"> 
+  
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=hellhounds%20&color=fc9803&style=plastic" alt="perishallmortals">
 </p>
 <p float="left">
   <img src="https://media.discordapp.net/attachments/1012555622446792745/1513623271357153311/2026_06_08_0ph_Kleki.png?ex=6a286705&is=6a271585&hm=bbccbf48c480cfa5ea76c6a67d9de9f8b2568f37c8951b41882bae09baa89691&=&format=webp&quality=lossless&width=360&height=360" width="200" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
