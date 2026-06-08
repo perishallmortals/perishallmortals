@@ -22,7 +22,20 @@
   <img width="900" height="50" src="https://64.media.tumblr.com/182b121eda0fbaccc97c1debfb466a41/be11f2c23fdd8889-bd/s500x750/2c4d34d3cd285b9788ef5edc2fbf08174f043d32.pnj">
   </p>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true) <table border="0" align="right">
+  <tr align="center"></tr>
+    <th>
+      <br>
+  <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meow1}}$
+<p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meow2}}$<br/>
+<p align="center"> $\small\color{#8FBC8B}{\textsf{meow3}}$<br/>
+<p align="left"> $\tiny\color{#8FBC8B}{\textsf{meow4}}$<br/>
+<p align="left"> $\tiny\color{#006A4E}{\textsf{meow5}}$
+  <p align="left"> $\tiny\color{#008200}{\textsf{meow6}}$<br/>
+  <p align="left"> $\large\color{#008200}{\textsf{meow7}}$<br/>
+
+  </th>
+  </table
 
    <p align=center>
   <img width="1000" height="200" src="https://i.pinimg.com/736x/16/7a/5b/167a5b96b5f82544999c14a1a89efb54.jpg"> 
