@@ -26,13 +26,13 @@
   <tr align="center"></tr>
     <th>
       <br>
-  <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meow1}}$
+<p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meow1}}$
 <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meow2}}$<br/>
 <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meow3}}$<br/>
 <p align="left"> $\normalsize\color{#8FBC8B}{\textsf{meow4}}$<br/>
 <p align="left"> $\normalsize\color{#006A4E}{\textsf{meow5}}$
-  <p align="left"> $\normalsize\color{#008200}{\textsf{meow6}}$<br/>
-  <p align="left"> $\large\color{#008200}{\textsf{meow7}}$<br/>
+<p align="left"> $\normalsize\color{#008200}{\textsf{meow6}}$<br/>
+<p align="left"> $\large\color{#008200}{\textsf{meow7}}$<br/>
 
   </th>
   </table
