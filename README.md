@@ -21,21 +21,19 @@
 <p align=left>
   <img width="900" height="50" src="https://64.media.tumblr.com/182b121eda0fbaccc97c1debfb466a41/be11f2c23fdd8889-bd/s500x750/2c4d34d3cd285b9788ef5edc2fbf08174f043d32.pnj">
   </p>
+<div align="center">
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true)<table border="0">
-  <tr align="center"></tr>
-    <th>
-      <br>
-<p align="left"> $\normalsize\color{#ffdb70}{\textsf{meow1}}$
-<p align="left"> $\normalsize\color{#ffdb70}{\textsf{meow2}}$<br/>
-<p align="left"> $\normalsize\color{#ffdb70}{\textsf{meow3}}$<br/>
-<p align="right"> $\normalsize\color{#ffdb70}{\textsf{meow4}}$<br/>
-<p align="right"> $\normalsize\color{#ffdb70}{\textsf{meow5}}$
-<p align="right"> $\normalsize\color{#ffdb70}{\textsf{meow6}}$<br/>
-<p align="center"> $\large\color{#ffdb70}{\textsf{meow7}}$<br/>
+<img src="https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true" alt="My scrobbles" align="left" />
+
+   <table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+     <br>
+
+  <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
 
   </th>
-  </table
+  </table>
 
    <p align=center>
   <img width="1000" height="200" src="https://i.pinimg.com/736x/16/7a/5b/167a5b96b5f82544999c14a1a89efb54.jpg"> 
