@@ -3,7 +3,7 @@
   
 <p align="center"> 
   <p align=center> 
-  <img width="700" height="200" src="https://64.media.tumblr.com/46bce5f0e20aa7cc517f7c39d5290b55/2672d0d5d966b810-52/s500x750/532940274446d5461509546923c3dfa6e62d97c6.gifv"> 
+  <img width="900" height="200" src="https://64.media.tumblr.com/46bce5f0e20aa7cc517f7c39d5290b55/2672d0d5d966b810-52/s500x750/532940274446d5461509546923c3dfa6e62d97c6.gifv"> 
   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=hellhounds%20&color=fc9803&style=plastic" alt="perishallmortals">
