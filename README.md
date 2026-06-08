@@ -22,7 +22,7 @@
   <img width="900" height="50" src="https://64.media.tumblr.com/182b121eda0fbaccc97c1debfb466a41/be11f2c23fdd8889-bd/s500x750/2c4d34d3cd285b9788ef5edc2fbf08174f043d32.pnj">
   </p>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<table border="0">
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true)&emsp;&emsp;&emsp;&emsp;&emsp;<table border="0">
   <tr align="center"></tr>
     <th>
       <br>
