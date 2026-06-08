@@ -18,7 +18,7 @@
   <img width="900" height="50" src="https://media.discordapp.net/attachments/1012555622446792745/1467635783530844170/2026_02_01_0rr_Kleki.png?ex=698119d6&is=697fc856&hm=f9e56cfd50059aa30e818bd10a68b199564293c03f67b87d27c332907a657d1c&=&format=webp&quality=lossless&width=720&height=58">
   </p>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=76eaf5&loved=true)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true)
 
    <p align=center>
   <img width="1000" height="200" src="https://i.pinimg.com/736x/16/7a/5b/167a5b96b5f82544999c14a1a89efb54.jpg"> 
