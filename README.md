@@ -1,5 +1,5 @@
  <p align=center> 
-  <img width="1000" height="300" src="https://64.media.tumblr.com/ada787ce34fd162bc41834f2258409f2/332f47b0285d6588-6b/s1280x1920/041aab0531c1d2199f8bc6ab0159babb67704c0e.pnj"> 
+  <img width="1000" height="300" src="https://i.pinimg.com/1200x/00/b7/4b/00b74b048697889996ce2b180efef696.jpg"> 
   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=jinxers%20&color=fc9803&style=plastic" alt="perishallmortals">
