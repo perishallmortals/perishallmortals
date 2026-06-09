@@ -33,7 +33,7 @@
   <p align="center"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
   <p align="left"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
   <p align="left"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-  <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="center"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
   <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
   <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
   <p align="center"> $\large\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
