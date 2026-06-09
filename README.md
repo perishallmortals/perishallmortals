@@ -49,7 +49,7 @@
 </p>
 
    <p align=center>
-  <img width="900" height="100" src="https://i.pinimg.com/736x/16/7a/5b/167a5b96b5f82544999c14a1a89efb54.jpg"> 
+  <img width="900" height="150" src="https://i.pinimg.com/736x/16/7a/5b/167a5b96b5f82544999c14a1a89efb54.jpg"> 
    </p>
    
 <p align=center>
