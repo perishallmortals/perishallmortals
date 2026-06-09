@@ -30,14 +30,20 @@
       <th>
      <br>
 
-  <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-   <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-  <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-  <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="center"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="left"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="left"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="center"> $\large\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+
 
 
   </th>
   </table>
+
+
 
    <p align=center>
   <img width="1000" height="200" src="https://i.pinimg.com/736x/16/7a/5b/167a5b96b5f82544999c14a1a89efb54.jpg"> 
