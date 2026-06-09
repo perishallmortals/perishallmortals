@@ -30,13 +30,13 @@
       <th>
      <br>
 
-  <p align="center"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-  <p align="left"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-  <p align="left"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="center"> $\normalsize\color{#f5d142}{\textsf{"You got a problem or sumthin' sour cream?}}$
+  <p align="left"> $\normalsize\color{#f5d142}{\textsf{hi i perish oke}}$
+  <p align="left"> $\normalsize\color{#f5d142}{\textsf{I am okay with cuddling as long as i am by myself!!}}$
   <p align="center"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
   <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
   <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-  <p align="center"> $\large\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="center"> $\large\color{#f5d142}{\textsf{see my strawpage for more stuff!!!}}$
 
 
 
