@@ -32,10 +32,10 @@
 
   <p align="center"> $\normalsize\color{#f5d142}{\textsf{"You got a problem or sumthin' sour cream?}}$
   <p align="left"> $\normalsize\color{#f5d142}{\textsf{hi i perish oke}}$
-  <p align="left"> $\normalsize\color{#f5d142}{\textsf{I am okay with cuddling as long as i am by myself!!}}$
-  <p align="center"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-  <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-  <p align="right"> $\normalsize\color{#f5d142}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+  <p align="left"> $\normalsize\color{#f5d142}{\textsf{i am okay with cuddling as long as i am by myself!!}}$
+  <p align="center"> $\normalsize\color{#f5d142}{\textsf{if you claim to be the #1 fan of any of my favs please iwc}}$
+  <p align="right"> $\normalsize\color{#f5d142}{\textsf{i love fleshwater and my wife soo much um}}$
+  <p align="right"> $\normalsize\color{#f5d142}{\textsf{feel free to whisper me,, i am very friendly :3}}$
   <p align="center"> $\large\color{#f5d142}{\textsf{see my strawpage for more stuff!!!}}$
 
 
