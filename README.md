@@ -30,13 +30,15 @@
       <th>
      <br>
 
-  <p align="center"> $\normalsize\color{#f5d142}{\textsf{"You got a problem or sumthin' sour cream?}}$
+  <p align="center"> $\normalsize\color{#f5d142}{\textsf{"You got a problem or sumthin' sour cream?"}}$
   <p align="left"> $\normalsize\color{#effa57}{\textsf{hi i perish oke}}$
   <p align="left"> $\normalsize\color{#c1f56e}{\textsf{i am okay with cuddling as long as i am by myself!!}}$
   <p align="center"> $\normalsize\color{#84ed77}{\textsf{if you claim to be the numb1 fan of any of my favs please iwc}}$
   <p align="right"> $\normalsize\color{#77edc4}{\textsf{i love fleshwater and my wife soo much um}}$
   <p align="right"> $\normalsize\color{#77d0ed}{\textsf{feel free to whisper me,, i am very friendly :3}}$
   <p align="center"> $\large\color{#779eed}{\textsf{see my strawpage for more stuff!!!}}$
+  <p align="center"> $\tiny\color{#779eed}{\textsf{also i am not listening to everyting twice,, last.fm is broken :(}}$
+
 
 
 
