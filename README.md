@@ -37,8 +37,6 @@
   <p align="right"> $\normalsize\color{#77edc4}{\textsf{i love fleshwater and my wife soo much um}}$
   <p align="right"> $\normalsize\color{#77d0ed}{\textsf{feel free to whisper me,, i am very friendly :3}}$
   <p align="center"> $\large\color{#779eed}{\textsf{see my strawpage for more stuff!!!}}$
-  <p align="center"> $\tiny\color{#779eed}{\textsf{also i am not listening to everyting twice,, last.fm is broken :(}}$
-
 
 
 
