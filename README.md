@@ -58,3 +58,6 @@
 <p align=center>
   <img width="500" height="100" src="https://64.media.tumblr.com/7d8157ac9953f64c475109dcf17188b9/c5ef1fa0996dbf63-3b/s400x600/0f929d674876e2dc4c35eebc3453b359368b5259.jpg"> 
 </p>
+
+ <p align=center> 
+  <img width="700" height="200" src="https://media.discordapp.net/attachments/1012555622446792745/1516139683820601494/noelle_graphic.jpg?ex=6a318e9d&is=6a303d1d&hm=c7c073ac330292a99347751fd97a2811fdb6dc4672f1a527c49168d5d95fa116&=&format=webp&width=720&height=189">
