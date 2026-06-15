@@ -60,4 +60,4 @@
 </p>
 
  <p align=center> 
-  <img width="700" height="200" src="https://media.discordapp.net/attachments/1012555622446792745/1516139683820601494/noelle_graphic.jpg?ex=6a318e9d&is=6a303d1d&hm=c7c073ac330292a99347751fd97a2811fdb6dc4672f1a527c49168d5d95fa116&=&format=webp&width=720&height=189">
+  <img width="720" height="189" src="https://media.discordapp.net/attachments/1012555622446792745/1516139683820601494/noelle_graphic.jpg?ex=6a318e9d&is=6a303d1d&hm=c7c073ac330292a99347751fd97a2811fdb6dc4672f1a527c49168d5d95fa116&=&format=webp&width=720&height=189">
