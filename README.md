@@ -10,7 +10,7 @@
 </p>
 <p float="left">
   <img src="https://64.media.tumblr.com/413c21461a36e71a5ec0c63b77e8a18e/12c70f6c9411027a-33/s75x75_c1/29ab138bdea89e5a368e1a530514fcc4c223a55a.gifv" width="200" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F958bfl5vz8lf1.gif" width="200" /> 
+  <img src="https://64.media.tumblr.com/2dc209372fd46ce2d97179bef00b4705/93404a6466445b0d-4c/s400x600/4da8c051cfab707025584a90b2ed168b90c6c393.gif" width="200" /> 
 </p>
 <p float="left">
   <img src="https://64.media.tumblr.com/5ac7cb43a9425de517a62706f9e63782/4c08ba639c3b5758-05/s500x750/4b2539d9729bb374f8d67b145659ff6eebf17ff9.gifv" width="350" />&emsp;&emsp;
