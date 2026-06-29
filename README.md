@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=fc9803&style=plastic" alt="perishallmortals">
 </p>
 <p float="left">
-  <img src="https://64.media.tumblr.com/413c21461a36e71a5ec0c63b77e8a18e/12c70f6c9411027a-33/s75x75_c1/29ab138bdea89e5a368e1a530514fcc4c223a55a.gifv" width="200" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://media.discordapp.net/attachments/1012555622446792745/1521046316422135818/2026_06_29_04u_Kleki.png?ex=6a436845&is=6a4216c5&hm=c3f57d7f10480386e45c91bb7033cb631b99f39dcf5b9cf599130b3d67a1ec77&=&format=webp&quality=lossless&width=360&height=360" width="200" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://64.media.tumblr.com/2dc209372fd46ce2d97179bef00b4705/93404a6466445b0d-4c/s400x600/4da8c051cfab707025584a90b2ed168b90c6c393.gif" width="200" /> 
 </p>
 <p float="left">
