@@ -19,7 +19,7 @@
 
 
 <p align=left>
-  <img width="900" height="50" src="https://64.media.tumblr.com/ce791747b2ef0d4caf24b7b34bd30050/1d94f68b6af5f37f-37/s640x960/f44fde9568f1638c2adbc53b45110a31cc3ef114.pnj">
+  <img width="900" height="50" src="https://64.media.tumblr.com/8902d5e5fb350c1c410c88c1666de1b3/449bbef7e97e4cf1-ed/s500x750/1e1255c88e647da5c983161e93430843e1c5f26a.jpg">
   </p>
 <div align="center">
 
