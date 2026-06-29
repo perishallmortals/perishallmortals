@@ -53,7 +53,7 @@
    </p>
    
 <p align=center>
-  <img width="950" height="100" src="https://64.media.tumblr.com/0e036a3becc0a8bd90c68f7301a14e96/12c70f6c9411027a-96/s400x600/9dd982d7f613f839d8b4968476caff686cc0a9c0.pnj"> 
+  <img width="950" height="50" src="https://64.media.tumblr.com/0e036a3becc0a8bd90c68f7301a14e96/12c70f6c9411027a-96/s400x600/9dd982d7f613f839d8b4968476caff686cc0a9c0.pnj"> 
    </p>
 <p align=center>
   <img width="350" height="250" src="https://64.media.tumblr.com/62dda57075f9c25e8d80e911db596833/fdaa7dac711f3a63-f9/s640x960/b0215b0b193e7d1a0fcb2dc0d59e8b77bec26609.jpg"> 
