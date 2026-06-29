@@ -14,7 +14,7 @@
 </p>
 <p float="left">
   <img src="https://cdn.discordapp.com/attachments/1244004998342377493/1444329052981690429/tumblr_56670d5cf83cb04c7ce084fb139dac93_faeb5a4f_500.gif?ex=6a432500&is=6a41d380&hm=09d0db9956d156f2679102c51bcac51da9a749f69902434d7967f6ca065ff453" width="350" />&emsp;&emsp;
-  <img src="https://64.media.tumblr.com/8902d5e5fb350c1c410c88c1666de1b3/449bbef7e97e4cf1-ed/s500x750/1e1255c88e647da5c983161e93430843e1c5f26a.jpg" width="450" /> 
+  <img src="https://64.media.tumblr.com/8902d5e5fb350c1c410c88c1666de1b3/449bbef7e97e4cf1-ed/s500x750/1e1255c88e647da5c983161e93430843e1c5f26a.jpg" width="300" /> 
 </p>
 
 
