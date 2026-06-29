@@ -13,7 +13,7 @@
   <img src="https://64.media.tumblr.com/2dc209372fd46ce2d97179bef00b4705/93404a6466445b0d-4c/s400x600/4da8c051cfab707025584a90b2ed168b90c6c393.gif" width="200" /> 
 </p>
 <p float="left">
-  <img src="https://64.media.tumblr.com/5ac7cb43a9425de517a62706f9e63782/4c08ba639c3b5758-05/s500x750/4b2539d9729bb374f8d67b145659ff6eebf17ff9.gifv" width="350" />&emsp;&emsp;
+  <img src="https://cdn.discordapp.com/attachments/1244004998342377493/1444329052981690429/tumblr_56670d5cf83cb04c7ce084fb139dac93_faeb5a4f_500.gif?ex=6a432500&is=6a41d380&hm=09d0db9956d156f2679102c51bcac51da9a749f69902434d7967f6ca065ff453" width="350" />&emsp;&emsp;
   <img src="https://64.media.tumblr.com/4085e03c3bc7a7d1b76a393064709fe8/9860e6e4bff7c555-3c/s1280x1920/8097ea482478ec17cfb196c0cdf0d8de348ac371.gifv" width="450" /> 
 </p>
 
