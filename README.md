@@ -6,7 +6,7 @@
   <img width="900" height="200" src="https://media.discordapp.net/attachments/1012555622446792745/1521035282957471804/image-removebg-preview_2.png?ex=6a435dfe&is=6a420c7e&hm=6289e0f10017e579538ebfc9f517ac5bd1b46673a561b152efecc2e4de677bac&=&format=webp&quality=lossless&width=1136&height=364"> 
   
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=fc9803&style=plastic" alt="perishallmortals">
+  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=6bd1e8&style=plastic" alt="perishallmortals">
 </p>
 <p float="left">
   <img src="https://media.discordapp.net/attachments/1012555622446792745/1521046316422135818/2026_06_29_04u_Kleki.png?ex=6a436845&is=6a4216c5&hm=c3f57d7f10480386e45c91bb7033cb631b99f39dcf5b9cf599130b3d67a1ec77&=&format=webp&quality=lossless&width=360&height=360" width="200" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
