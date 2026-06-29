@@ -56,7 +56,7 @@
   <img width="950" height="50" src="https://64.media.tumblr.com/0e036a3becc0a8bd90c68f7301a14e96/12c70f6c9411027a-96/s400x600/9dd982d7f613f839d8b4968476caff686cc0a9c0.pnj"> 
    </p>
 <p align=center>
-  <img width="900" height="500" src="https://i.pinimg.com/736x/45/fd/3a/45fd3a13fa3632d7532d8f695cfd52cc.jpg"> 
+  <img width="700" height="300" src="https://i.pinimg.com/736x/45/fd/3a/45fd3a13fa3632d7532d8f695cfd52cc.jpg"> 
 </p>
 
  <p align=center> 
