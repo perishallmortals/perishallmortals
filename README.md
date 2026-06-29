@@ -56,7 +56,7 @@
   <img width="950" height="20" src="https://64.media.tumblr.com/e0a49da27f64b6afca53e80a762cb0e2/430fb46ef1a32c66-f6/s2048x3072/16bc9ebc87bf7db29f7266facd4c5ed06471f810.pnj"> 
    </p>
 <p align=center>
-  <img width="200" height="100" src="https://64.media.tumblr.com/62dda57075f9c25e8d80e911db596833/fdaa7dac711f3a63-f9/s640x960/b0215b0b193e7d1a0fcb2dc0d59e8b77bec26609.jpg"> 
+  <img width="400" height="300" src="https://64.media.tumblr.com/62dda57075f9c25e8d80e911db596833/fdaa7dac711f3a63-f9/s640x960/b0215b0b193e7d1a0fcb2dc0d59e8b77bec26609.jpg"> 
 </p>
 
  <p align=center> 
