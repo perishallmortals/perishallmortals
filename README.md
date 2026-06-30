@@ -30,7 +30,7 @@
       <th>
      <br>
 
-  <p align="center"> $\normalsize\color{#f5d142}{\textsf{"You got a problem or sumthin' sour cream?"}}$
+  <p align="center"> $\normalsize\color{#f5d142}{\textsf{"*(always been a bad girl)"}}$
   <p align="left"> $\normalsize\color{#effa57}{\textsf{hi i perish oke}}$
   <p align="left"> $\normalsize\color{#c1f56e}{\textsf{i am okay with cuddling as long as i am by myself!!}}$
   <p align="center"> $\normalsize\color{#84ed77}{\textsf{if you claim to be the numb1 fan of any of my favs please iwc}}$
