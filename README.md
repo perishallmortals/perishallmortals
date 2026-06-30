@@ -10,7 +10,7 @@
 </p>
 <p float="left">
   <img src="https://media.discordapp.net/attachments/1012555622446792745/1521046316422135818/2026_06_29_04u_Kleki.png?ex=6a436845&is=6a4216c5&hm=c3f57d7f10480386e45c91bb7033cb631b99f39dcf5b9cf599130b3d67a1ec77&=&format=webp&quality=lossless&width=360&height=360" width="200" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://64.media.tumblr.com/2dc209372fd46ce2d97179bef00b4705/93404a6466445b0d-4c/s400x600/4da8c051cfab707025584a90b2ed168b90c6c393.gif" width="200" /> 
+  <img src="https://64.media.tumblr.com/3482780519ec12ec068aa6f1bfa8fc05/5233cd512f1799ac-2f/s400x600/8678b2c86aa2de24472775178767f8ad88171747.pnj" width="200" /> 
 </p>
 <p float="left">
   <img src="https://cdn.discordapp.com/attachments/1244004998342377493/1444329052981690429/tumblr_56670d5cf83cb04c7ce084fb139dac93_faeb5a4f_500.gif?ex=6a432500&is=6a41d380&hm=09d0db9956d156f2679102c51bcac51da9a749f69902434d7967f6ca065ff453" width="350" />&emsp;&emsp;
