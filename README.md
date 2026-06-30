@@ -10,7 +10,7 @@
 </p>
 <p float="left">
   <img src="https://media.discordapp.net/attachments/1012555622446792745/1521046316422135818/2026_06_29_04u_Kleki.png?ex=6a436845&is=6a4216c5&hm=c3f57d7f10480386e45c91bb7033cb631b99f39dcf5b9cf599130b3d67a1ec77&=&format=webp&quality=lossless&width=360&height=360" width="200" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://cdn.discordapp.com/emojis/1406468792250531850.webp?size=160&animated=true" width="200" /> 
+  <img src="https://cdn.discordapp.com/emojis/1406468792250531850.webp?size=160&animated=true" width="150" /> 
 </p>
 <p float="left">
   <img src="https://cdn.discordapp.com/attachments/1244004998342377493/1444329052981690429/tumblr_56670d5cf83cb04c7ce084fb139dac93_faeb5a4f_500.gif?ex=6a432500&is=6a41d380&hm=09d0db9956d156f2679102c51bcac51da9a749f69902434d7967f6ca065ff453" width="350" />&emsp;&emsp;
