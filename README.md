@@ -17,7 +17,7 @@
   <img src="https://cdn.discordapp.com/emojis/1406468792250531850.webp?size=160&animated=true" width="150" /> 
 </p>
 <p float="left">
-  <img src="https://media.discordapp.net/attachments/1244004998342377493/1444329052981690429/tumblr_56670d5cf83cb04c7ce084fb139dac93_faeb5a4f_500.gif?ex=6a47c240&is=6a4670c0&hm=508fce6772d390c53ac185351705680ebe2088f3d8c31bc73564e73d5dfd78c0" width="350" />&emsp;&emsp;
+  <img src="https://64.media.tumblr.com/56670d5cf83cb04c7ce084fb139dac93/900bdc0dba588dcf-4e/s500x750/faeb5a4f0a3cea6f72a7bd4d65f2ce4a0b201fd2.gifv" width="350" />&emsp;&emsp;
   <img src="https://64.media.tumblr.com/8902d5e5fb350c1c410c88c1666de1b3/449bbef7e97e4cf1-ed/s500x750/1e1255c88e647da5c983161e93430843e1c5f26a.jpg" width="450" /> 
 </p>
 
