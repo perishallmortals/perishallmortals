@@ -7,7 +7,7 @@
   
 <p align="center"> 
   <p align=center> 
-  <img width="900" height="200" src="https://media.discordapp.net/attachments/1012555622446792745/1521035282957471804/image-removebg-preview_2.png?ex=6a435dfe&is=6a420c7e&hm=6289e0f10017e579538ebfc9f517ac5bd1b46673a561b152efecc2e4de677bac&=&format=webp&quality=lossless&width=1136&height=364"> 
+  <img width="900" height="200" src="https://media.discordapp.net/attachments/1012555622446792745/1521035282957471804/image-removebg-preview_2.png?ex=6a567bbe&is=6a552a3e&hm=22c7abe8ce6c51b8bf1c229626f4085967b3b3949155a9fe6ba0378ec0424244&=&format=webp&quality=lossless"> 
   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=a1e7f7&style=plastic" alt="perishallmortals">
