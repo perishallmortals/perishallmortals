@@ -13,7 +13,7 @@
 </p>
 <p float="left">
   <img src="https://media.discordapp.net/attachments/1012555622446792745/1521046316422135818/2026_06_29_04u_Kleki.png?ex=6a568605&is=6a553485&hm=4cb85b76ea327c175e4a3cf7c5712856e9541b2e88be82a27f5b56185786c54a&=&format=webp&quality=lossless" width="150" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://cdn.discordapp.com/emojis/1406468792250531850.webp?size=160&animated=true" width="150" /> 
+  <img src="https://cdn.discordapp.com/emojis/1406468792250531850.webp?size=160&animated=true" width="100" /> 
 </p>
 <p float="left">
   <img src="https://64.media.tumblr.com/31968548e73621cb8e520c4f893be1ee/fda375057226ebc4-1e/s500x750/7b38ccc90489aace06d40f4b8d4467c2ed000f55.gifv" width="350" />&emsp;&emsp;
