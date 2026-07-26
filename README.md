@@ -6,7 +6,7 @@
   <img width="600" height="50" src="https://64.media.tumblr.com/4ecd9eddf30a88c773fc2212c5e30357/9860e6e4bff7c555-e8/s1280x1920/0f1c6798080d8c07e9a7092ddb4066e3b5d43c01.pnj"> 
   
 <p align="center"> 
-  <img width="800" height="100" src="https://media.discordapp.net/attachments/1012555622446792745/1521035282957471804/image-removebg-preview_2.png?ex=6a567bbe&is=6a552a3e&hm=22c7abe8ce6c51b8bf1c229626f4085967b3b3949155a9fe6ba0378ec0424244&=&format=webp&quality=lossless"> 
+  <img width="800" height="100" src="https://media.discordapp.net/attachments/1012555622446792745/1521049786009129122/image.png?ex=6a665b40&is=6a6509c0&hm=c6b9d61fc61308da974a8e4d902f08348ea4250d16650d50a0569b7b192a3b30&=&format=webp&quality=lossless&width=922&height=503"> 
   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=a1e7f7&style=plastic" alt="perishallmortals">
