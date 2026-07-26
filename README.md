@@ -6,13 +6,13 @@
   <img width="600" height="50" src="https://64.media.tumblr.com/4ecd9eddf30a88c773fc2212c5e30357/9860e6e4bff7c555-e8/s1280x1920/0f1c6798080d8c07e9a7092ddb4066e3b5d43c01.pnj"> 
   
 <p align="center"> 
-  <img width="800" height="100" src="https://media.discordapp.net/attachments/1012555622446792745/1521049786009129122/image.png?ex=6a665b40&is=6a6509c0&hm=c6b9d61fc61308da974a8e4d902f08348ea4250d16650d50a0569b7b192a3b30&=&format=webp&quality=lossless&width=922&height=503"> 
+  <img width="800" height="100" src="https://media.discordapp.net/attachments/1012555622446792745/1521035282957471804/image-removebg-preview_2.png?ex=6a66f67e&is=6a65a4fe&hm=8cdeb8f39e87c7687b3b7836eb739795949ab94c023b479e6cb5b4e38770b14d&=&format=webp&quality=lossless&width=1136&height=364"> 
   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=a1e7f7&style=plastic" alt="perishallmortals">
 </p>
 <p float="left">
-  <img src="https://media.discordapp.net/attachments/1012555622446792745/1521046316422135818/2026_06_29_04u_Kleki.png?ex=6a568605&is=6a553485&hm=4cb85b76ea327c175e4a3cf7c5712856e9541b2e88be82a27f5b56185786c54a&=&format=webp&quality=lossless" width="150" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://media.discordapp.net/attachments/1012555622446792745/1521046316422135818/2026_06_29_04u_Kleki.png?ex=6a665805&is=6a650685&hm=8e621e76f8e6fcdb9f1cf902911af40ddea4246b222a7ce03aa2314dac19e3b1&=&format=webp&quality=lossless&width=360&height=360" width="150" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://cdn.discordapp.com/emojis/1406468792250531850.webp?size=160&animated=true" width="100" /> 
 </p>
 <p float="left">
