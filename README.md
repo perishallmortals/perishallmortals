@@ -63,4 +63,4 @@
 </p>
 
  <p align=center> 
-  <img width="670" height="139" src="https://media.discordapp.net/attachments/1012555622446792745/1516139683820601494/noelle_graphic.jpg?ex=6a57ca1d&is=6a56789d&hm=15b1247977e7ba4ae96dbc7a03b84d6a31845db29ef225bfce7933824690c2f8&=&format=webp&">
+  <img width="670" height="139" src="https://64.media.tumblr.com/af137fdaa84748e0785a6f222cbe1a7b/c8c1eb94b073a67d-59/s640x960/d814367968cc6e297923de5b1ce9207bfa1054f9.pnj">
