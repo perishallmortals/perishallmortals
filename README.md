@@ -3,7 +3,7 @@
   <img width="200" height="50" src="https://64.media.tumblr.com/1db02f8937e5386ba92d66dce453be6f/f70ac3c07dfd1312-90/s500x750/aad86746fb85bb802da5cf9c58915a5a5bdc13ac.pnj"> <img width="200" height="50" src="https://64.media.tumblr.com/d37091ae9b4948e8577d11aea33abbee/6d294969850f6fa0-50/s500x750/e193d73a783ec6387e69071f1efabd460182c7e9.pnj"> 
  
  <p align=center> 
-  <img width="900" height="50" src="https://64.media.tumblr.com/1ba6ef6893d8347f633d42b79b91d028/1bd3b25a400c67ba-78/s1280x1920/0321241743836cd1d383d35818ee705c710e0f51.pnj"> 
+  <img width="900" height="600" src="https://64.media.tumblr.com/1ba6ef6893d8347f633d42b79b91d028/1bd3b25a400c67ba-78/s1280x1920/0321241743836cd1d383d35818ee705c710e0f51.pnj"> 
   
 <p align="center"> 
   <img width="800" height="100" src="https://media.discordapp.net/attachments/1012555622446792745/1521035282957471804/image-removebg-preview_2.png?ex=6a66f67e&is=6a65a4fe&hm=8cdeb8f39e87c7687b3b7836eb739795949ab94c023b479e6cb5b4e38770b14d&=&format=webp&quality=lossless&width=1136&height=364"> 
