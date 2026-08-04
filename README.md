@@ -3,7 +3,7 @@
  <p align=center> 
   <img width="900" height="200" src="https://64.media.tumblr.com/7e0561f33b2279048c7b7f4a345676e7/8b291952b8d3a4bc-75/s500x750/3fa3a391e232a1461d305bf861a6ed4acde94d3b.pnj"> 
   <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=a1e7f7&style=plastic" alt="perishallmortals">
+  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=7a6587&style=plastic" alt="perishallmortals">
 </p>
 <p float="left">
   <img src="" width="150" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
