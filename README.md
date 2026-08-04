@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=7a6587&style=plastic" alt="perishallmortals">
 </p>
 <p float="left">
-  <img src="https://64.media.tumblr.com/2da9999016b6650c5fad19921f5e5250/8b291952b8d3a4bc-bb/s1280x1920/6ec3764ff7382958f6ac46db5938e58ae66fa719.pnj" width="550" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://64.media.tumblr.com/2da9999016b6650c5fad19921f5e5250/8b291952b8d3a4bc-bb/s1280x1920/6ec3764ff7382958f6ac46db5938e58ae66fa719.pnj" width="150" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="" width="100" /> 
 </p>
 <p float="left">
