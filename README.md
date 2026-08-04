@@ -28,22 +28,17 @@
      <br>
 
   <p align="center"> $\normalsize\color{#f5d142}{\textsf{"*(always been a bad girl)"}}$
-  <p align="left"> $\normalsize\color{#effa57}{\textsf{hi i perish oke}}$
+  <p align="left"> $\normalsize\color{#effa57}{\textsf{hi i perish}}$
   <p align="left"> $\normalsize\color{#c1f56e}{\textsf{i am okay with cuddling as long as i am by myself!!}}$
   <p align="center"> $\normalsize\color{#84ed77}{\textsf{if you claim to be the numb1 fan of any of my favs please iwc}}$
-  <p align="right"> $\normalsize\color{#77edc4}{\textsf{i love fleshwater and my wife soo much um}}$
+  <p align="right"> $\normalsize\color{#77edc4}{\textsf{i love fleshwater and my wife so much}}$
   <p align="right"> $\normalsize\color{#77d0ed}{\textsf{feel free to whisper me,, i am very friendly :3}}$
-  <p align="center"> $\large\color{#779eed}{\textsf{see my strawpage for more stuff!!!}}$
+  <p align="center"> $\large\color{#779eed}{\textsf{see my strawpage(s) for more stuff!!!}}$
 
 
 
   </th>
   </table>
-
-
-  <p align=center> 
- <img width="200" height"200" src="https://64.media.tumblr.com/0761829361f90acba01b0eb5fbd6caf5/e1567354ea514b5e-b0/s500x750/dd1767f8c8b9e55d125df0190859b518205d5d15.gifv"> <img width="200" height"200" src="https://64.media.tumblr.com/f56e225f7623d7f103067ef93423e265/40e3d2bf65067104-05/s500x750/ee5f27d414fe6edc6620c6ef549f02e36f0b3fcf.gifv"> <img width="100" height"150" src="https://64.media.tumblr.com/08acabd3151999e8ff0374934914542d/31c41f85a28dc2a3-3f/s100x200/9f4684eaeee6e1fcd77ee304f82d02328712020b.pnj"> <img width="100" height"150" src="https://64.media.tumblr.com/b7d7d68e19b9482996aa603687550dca/31c41f85a28dc2a3-ac/s100x200/11d73eda4bbcbbe057d188777d79dc1bb3ac621a.pnj"> <img width="100" height"150" src="https://64.media.tumblr.com/c27f5ccec08732d700d4016aca135759/3ee3a9a3941eca7a-0e/s100x200/e8471478d697ae73583e6d9d56092d2a219ee49c.pnj"> <img width="100" height"150" src="https://64.media.tumblr.com/9fa59124fc70e16685a592c8394ee71c/dd41b7880f97fcba-21/s100x200/63d503e5768d44a8f1166d9cc675ef276573f9a1.pnj"> <img width="100" height"150" src="https://64.media.tumblr.com/e6f706b84dd667b50adf516fa477db94/fe70f0e4304780db-fb/s100x200/9aabd0dfdc9ee1edb4fbe6efd7f9325d84cc9691.pnj"> <img width="100" height"150" src="https://64.media.tumblr.com/cd44b6df5f435a2517854581083279c8/dd41b7880f97fcba-da/s100x200/a2788707e55348272c881c67359b027654d87a30.pnj"> <img width="100" height"150" src="https://64.media.tumblr.com/c598b92dc59d40991493364f6ff3ddc0/c542a46606d5c460-52/s100x200/d49e0f635d9e776ba31fca7e1730450e05362482.pnj"> <img width="100" height"150" src="https://64.media.tumblr.com/81b527bd99b2ce0a9994f1c906fd75de/dd41b7880f97fcba-76/s100x200/eddd9f0604e2fdc0f58f97ac93f022916201ee34.pnj">
-</p>
 
    <p align=center>
   <img width="900" height="100" src="https://64.media.tumblr.com/edc3dbc0698f230ed28df30734fdb151/400ec3bac8e0beda-fd/s1280x1920/d0cbc79e2d72077a4cf8251a6680ae00c9a75473.pnj"> 
