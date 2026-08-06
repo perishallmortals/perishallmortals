@@ -30,17 +30,17 @@
 <br>
 
   <details>
-    <summary>$\color{#dbe1f3}{\textsf{❥ byi}}$</summary>
-      <p align="center"> $\tiny\color{#f5d142}{\textsf{"i am okay with cuddling as long as i am by myself!!"}}$
-      <p align="center"> $\tiny\color{#f5d142}{\textsf{"if you claim to be the numb1 fan of any of my favs please iwc"}}$
-      <p align="center"> $\tiny\color{#f5d142}{\textsf{"feel free to whisp,, i am very friendly :3"}}$
-      <p align="center"> $\tiny\color{#f5d142}{\textsf{"i have a lovely amazing talented gf dont flirt w me"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"see my strawpage(s) for more stuff!!!"}}$
+    <summary>$\color{#e5e1de}{\textsf{❥ byi}}$</summary>
+      <p align="center"> $\tiny\color{#a2e1bf}{\textsf{"i am okay with cuddling as long as i am by myself!!"}}$
+      <p align="center"> $\tiny\color{#8bd2bf}{\textsf{"if you claim to be the numb1 fan of any of my favs please iwc"}}$
+      <p align="center"> $\tiny\color{#8ad2be}{\textsf{"feel free to whisp,, i am very friendly :3"}}$
+      <p align="center"> $\tiny\color{#7ebec0}{\textsf{"i have a lovely amazing talented gf dont flirt w me"}}$
+      <p align="center"> $\normalsize\color{##777fa9}{\textsf{"see my strawpage(s) for more stuff!!!"}}$
   </details>
 </div>
 
   <details>
-    <summary>$\color{#dbe1f3}{\textsf{❥ titles}}$</summary>
+    <summary>$\color{#e5e1de}{\textsf{❥ titles}}$</summary>
       <p align="center"> $\normalsize\color{#f5d142}{\textsf{@title-town pt's noelle h.}}$
       <p align="center"> $\normalsize\color{#f5d142}{\textsf{@pt-fashion pt's noelle h.}}$
       <p align="center"> $\normalsize\color{#f5d142}{\textsf{@charactersofpt pt's noelle h.}}$
