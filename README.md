@@ -22,6 +22,13 @@
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=777eaa&interchange=false&profanity=false&hide_remaster=false&bar_color=7c76ab&bar_color_cover=false" width="300">
 
+<br>
+
+<img src="https://64.media.tumblr.com/18e333241d13b2a3db5f90abe853c0c7/400ec3bac8e0beda-f8/s1280x1920/0ab61c83886d7b81639657d25438aaf11952fab3.pnj" height="30" width="390">
+
+<br>
+<br>
+
   <details>
     <summary>$\color{#dbe1f3}{\textsf{❥ byi}}$</summary>
       <p align="center"> $\tiny\color{#f5d142}{\textsf{"i am okay with cuddling as long as i am by myself!!"}}$
