@@ -24,7 +24,7 @@
 
 
   <details>
-    <summary>$\color{#dbe1f3}{\textsf{byi}}$</summary>
+    <summary>$\color{#dbe1f3}{\textsf{❥ byi}}$</summary>
       <p align="center"> $\tiny\color{#f5d142}{\textsf{"i am okay with cuddling as long as i am by myself!!"}}$
       <p align="center"> $\tiny\color{#f5d142}{\textsf{"if you claim to be the numb1 fan of any of my favs please iwc"}}$
       <p align="center"> $\tiny\color{#f5d142}{\textsf{"feel free to whisp,, i am very friendly :3"}}$
@@ -34,12 +34,10 @@
 </div>
 
   <details>
-    <summary>$\color{#dbe1f3}{\textsf{titles}}$</summary>
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
+    <summary>$\color{#dbe1f3}{\textsf{❥ titles}}$</summary>
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"@title-town pt's noelle h."}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"@pt-fashion pt's noelle h."}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"@pt-friendships,, note for wife"}}$
 
   </details>
 </div>
