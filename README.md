@@ -35,7 +35,7 @@
       <p align="center"> $\tiny\color{#8bd2bf}{\textsf{"if you claim to be the numb1 fan of any of my favs please iwc"}}$
       <p align="center"> $\tiny\color{#8ad2be}{\textsf{"feel free to whisp,, i am very friendly :3"}}$
       <p align="center"> $\tiny\color{#7ebec0}{\textsf{"i have a lovely amazing talented gf dont flirt w me"}}$
-      <p align="center"> $\normalsize\color{##777fa9}{\textsf{"see my strawpage(s) for more stuff!!!"}}$
+      <p align="center"> $\normalsize\color{#777fa9}{\textsf{"see my strawpage(s) for more stuff!!!"}}$
   </details>
 </div>
 
