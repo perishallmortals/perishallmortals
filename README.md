@@ -35,9 +35,10 @@
 
   <details>
     <summary>$\color{#dbe1f3}{\textsf{❥ titles}}$</summary>
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"@title-town pt's noelle h."}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"@pt-fashion pt's noelle h."}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"@pt-friendships,, note for wife"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{@title-town pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{@pt-fashion pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{@charactersofpt pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{@pt-friendships,, note for wife}}$
 
   </details>
 </div>
