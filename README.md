@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=60416d&style=plastic" alt="perishallmortals">
 </p>
 <p float="left">
-  <img src="https://64.media.tumblr.com/6a7bc8c6b29b08c0fee6a7df38869690/8b291952b8d3a4bc-c8/s1280x1920/025e4cba2f7a6d6be8283d15dc9f4e2b66ffb524.pnj" width="300" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://64.media.tumblr.com/6a7bc8c6b29b08c0fee6a7df38869690/8b291952b8d3a4bc-c8/s1280x1920/025e4cba2f7a6d6be8283d15dc9f4e2b66ffb524.pnj" width="300" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=2e5cab&loved=true&count=1&wave" alt="My scrobbles" width="250" /> 
 </p>
 <p float="left">
