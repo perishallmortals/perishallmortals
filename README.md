@@ -10,7 +10,8 @@
    
 <p float="left">
   <img src="https://64.media.tumblr.com/6a7bc8c6b29b08c0fee6a7df38869690/8b291952b8d3a4bc-c8/s1280x1920/025e4cba2f7a6d6be8283d15dc9f4e2b66ffb524.pnj" width="300" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5ab099&loved=true&count=1" alt="My scrobbles" width="250" /> 
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dtaavnvf2tnlninmxbzx7qnzzm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=777eaa&interchange=false&profanity=false&hide_remaster=false&bar_color=a3607c&bar_color_cover=false">
+  </a>
 </p>
 <p float="left">
   <img src="" width="300" />&emsp;&emsp;
