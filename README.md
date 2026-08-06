@@ -3,7 +3,7 @@
  <p align=center> 
   <img width="900" height="200" src="https://64.media.tumblr.com/865143eeea6a603dca2536efb82f79fd/8b291952b8d3a4bc-26/s500x750/1b8ce02da74aa0e19418715eb271c8809ccc62d7.pnj"> 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=60416d&style=plastic" alt="perishallmortals">
+  <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=392746&style=plastic" alt="perishallmortals">
 </p>
   <p align=center>
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=1300&color=ACD599&center=true&width=435&lines=*+Hey+angel%2C;*+Fly+over;*+And+bless+me;*+See+you+feign+surprise;*+I'm+all+eyes;*+You're+all+you;*+Need+to+be" alt="Typing SVG" /> 
