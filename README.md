@@ -5,7 +5,7 @@
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=perishallmortals&label=snowflakes%20&color=60416d&style=plastic" alt="perishallmortals">
 </p>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=1300&color=ACD599&width=435&lines=*+Hey+angel%2C;*+Fly+over;*+And+bless+me;*+See+you+feign+surprise;*+I'm+all+eyes;*+You're+all+you;*+Need+to+be" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=1300&color=ACD599&width=435&lines=*+Hey+angel%2C;*+Fly+over;*+And+bless+me;*+See+you+feign+surprise;*+I'm+all+eyes;*+You're+all+you;*+Need+to+be" alt="Typing SVG" /> </p>
  
 <p float="left">
   <img src="https://64.media.tumblr.com/6a7bc8c6b29b08c0fee6a7df38869690/8b291952b8d3a4bc-c8/s1280x1920/025e4cba2f7a6d6be8283d15dc9f4e2b66ffb524.pnj" width="300" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
