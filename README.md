@@ -25,38 +25,26 @@
 
   <details>
     <summary>$\color{#dbe1f3}{\textsf{byi}}$</summary>
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"i am okay with cuddling as long as i am by myself!!"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"if you claim to be the numb1 fan of any of my favs please iwc"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"feel free to whisp,, i am very friendly :3"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"i have a lovely amazing talented gf dont flirt w me"}}$
+      <p align="center"> $\large\color{#f5d142}{\textsf{"see my strawpage(s) for more stuff!!!"}}$
   </details>
 </div>
 
   <details>
     <summary>$\color{#dbe1f3}{\textsf{titles}}$</summary>
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
-      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"meow"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
+      <p align="center"> $\normalsize\color{#f5d142}{\textsf{"peenar"}}$
 
   </details>
 </div>
 
-  </th>
-  </table>
-
-  <p align="left"> $\normalsize\color{#effa57}{\textsf{hi i perish}}$
-  <p align="left"> $\normalsize\color{#c1f56e}{\textsf{i am okay with cuddling as long as i am by myself!!}}$
-  <p align="center"> $\normalsize\color{#84ed77}{\textsf{if you claim to be the numb1 fan of any of my favs please iwc}}$
-  <p align="right"> $\normalsize\color{#77edc4}{\textsf{i love fleshwater and my wife so much}}$
-  <p align="right"> $\normalsize\color{#77d0ed}{\textsf{feel free to whisper me,, i am very friendly :3}}$
-  <p align="center"> $\large\color{#779eed}{\textsf{see my strawpage(s) for more stuff!!!}}$
-
-
-
-  </th>
+   </th>
   </table>
 
    <p align=center>
