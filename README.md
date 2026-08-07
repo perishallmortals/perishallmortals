@@ -49,6 +49,14 @@
   </details>
 </div>
 
+<br>
+
+<img src="https://64.media.tumblr.com/71742a2b57d0c4b06cf2e72302f76a81/cae7cabe6833fef0-17/s75x75_c1/09c5f874aed0e6b43d2a536d6bd6f05e6a75ef03.gifv" height="20" width="75">
+<img src="https://64.media.tumblr.com/037896b9ad75a07aac96f1f5af7cb10f/12c70f6c9411027a-d3/s75x75_c1/efe93360fbab52a55de2a3f457aa1b426a7f88c4.gifv" height="20" width="75">
+<img src="https://64.media.tumblr.com/8e150652f041ba7a95ff09f1d7367b03/4be796724bd518c7-1f/s75x75_c1/d4142780a92e3b3d4209ed7e5d98008ac7a551f0.gifv" height="20" width="75">
+<img src="https://64.media.tumblr.com/6df488f6a7224e6a243f4120ab4958fc/44e699638b6a68ec-40/s75x75_c1/5c75e5e34611829368d15420326b40f425f15cca.webp" height="20" width="75">
+<img src="https://64.media.tumblr.com/4cd0aa31f28a553ab604b01f2e8db86d/2ca27db4f3f0e247-b3/s75x75_c1/089fd3562e57e65c911a58a88cec2177fa9f83bc.gifv" height="20" width="75">
+
    </th>
   </table>
 
