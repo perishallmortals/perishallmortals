@@ -41,10 +41,12 @@
 
   <details>
     <summary>$\color{#e5e1de}{\textsf{❥ titles}}$</summary>
-      <p align="center"> $\normalsize\color{#524b8c}{\textsf{@title-town pt's noelle h.}}$
-      <p align="center"> $\normalsize\color{#6a4a8b}{\textsf{@pt-fashion pt's noelle h.}}$
-      <p align="center"> $\normalsize\color{#824d9d}{\textsf{@charactersofpt pt's noelle h.}}$
-      <p align="center"> $\normalsize\color{#964d9e}{\textsf{@pt-friendships,, note for wife}}$
+      <p align="center"> $\normalsize\color{#514a8b}{\textsf{@FOLKTOWN pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#6d49ac}{\textsf{@title-town pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#834aae}{\textsf{@pt-fashion pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#924b9a}{\textsf{@charactersofpt pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#a93d87}{\textsf{@pt-walk-of-fame pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#a93c6c}{\textsf{@pt-friendships,, note for wife}}$
 
   </details>
 </div>
