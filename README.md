@@ -46,6 +46,7 @@
       <p align="center"> $\normalsize\color{#834aae}{\textsf{@pt-fashion pt's noelle h.}}$
       <p align="center"> $\normalsize\color{#924b9a}{\textsf{@charactersofpt pt's noelle h.}}$
       <p align="center"> $\normalsize\color{#a93d87}{\textsf{@pt-walk-of-fame pt's noelle h.}}$
+      <p align="center"> $\normalsize\color{#a93d87}{\textsf{@casinotown pt's jinx}}$
       <p align="center"> $\normalsize\color{#a93c6c}{\textsf{@pt-friendships,, note for wife}}$
 
   </details>
